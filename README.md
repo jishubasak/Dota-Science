@@ -17,3 +17,6 @@ DOTA2 is a highly complex game that is played between 2 teams of 5 opposing play
 * <b>"Hard Support"</b>, which is characterized by a strong preference to play "support" characters, and this is further supported by the top 5 heroes chosen in this cluster. This cluster shows high assist rates but low kill and death rates, that point to their playing style in game as being "support" characters that help the "carry" characters during the game. This cluster is also ranked the lowest, with its median rank being 185/317.
 
 While the clustering was able to uncover 3 types of players, the limitations of this methodology is that there are no labels added and the granularity of the data is only until the lifetime averages of the players. A further study could be done on the match-per-match level using different supervised machine learning algorithms to create a more granular and accurate picture on the exact styles of the players. 
+
+
+To Access the file, visit Dota Science Jupyter Notebook
