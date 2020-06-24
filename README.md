@@ -20,3 +20,5 @@ While the clustering was able to uncover 3 types of players, the limitations of 
 
 
 ##### To Access the file, visit Dota Science Jupyter Notebook
+
+<p align="center"><img src="https://github.com/jishubasak/Dota-Science/blob/master/catalog/poster.gif"></p>
