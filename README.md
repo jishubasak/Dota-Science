@@ -19,4 +19,4 @@ DOTA2 is a highly complex game that is played between 2 teams of 5 opposing play
 While the clustering was able to uncover 3 types of players, the limitations of this methodology is that there are no labels added and the granularity of the data is only until the lifetime averages of the players. A further study could be done on the match-per-match level using different supervised machine learning algorithms to create a more granular and accurate picture on the exact styles of the players. 
 
 
-To Access the file, visit Dota Science Jupyter Notebook
+##### To Access the file, visit Dota Science Jupyter Notebook
